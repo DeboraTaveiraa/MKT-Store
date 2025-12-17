@@ -1,5 +1,15 @@
-# Vue 3 + TypeScript + Vite
+# MKT Store
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Study project developed with Vue 3, TypeScript and Vite.
+The goal of this project is to build a small e-commerce application where users can view products and add or remove items from the shopping cart.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Technologies
+- Vue 3
+- TypeScript
+- Vite
+- SCSS
+
+## How to run the project
+```bash
+npm install
+npm run dev
